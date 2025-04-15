@@ -1,0 +1,69 @@
+2025-04-15 22:01:53,022 [INFO] django.request: GET /api/orders/ 200 0.403s
+2025-04-15 22:01:53,023 [INFO] django.request: PUT /api/users/ 200 0.204s
+2025-04-15 22:01:53,023 [INFO] django.request: PUT /api/users/ 200 0.079s
+2025-04-15 22:01:53,023 [DEBUG] django.request: PATCH /api/orders/ 200 0.093s
+2025-04-15 22:01:53,023 [ERROR] django.request: DELETE /api/users/ 401 0.045s
+Error: Internal server error
+2025-04-15 22:01:53,023 [DEBUG] django.request: PUT /api/auth/login/ 200 0.473s
+2025-04-15 22:01:53,023 [DEBUG] django.request: GET /api/products/ 200 0.414s
+2025-04-15 22:01:53,023 [CRITICAL] django.request: PUT /api/auth/login/ 500 0.145s
+Error: Permission denied
+2025-04-15 22:01:53,023 [WARNING] django.request: GET /api/orders/ 201 0.277s
+2025-04-15 22:01:53,023 [WARNING] django.request: DELETE /api/products/ 201 0.016s
+2025-04-15 22:01:53,023 [ERROR] django.request: DELETE /api/payments/ 403 0.360s
+Error: Permission denied
+2025-04-15 22:01:53,023 [ERROR] django.request: PATCH /api/auth/login/ 400 0.271s
+Error: Internal server error
+2025-04-15 22:01:53,023 [CRITICAL] django.request: POST /api/users/ 500 0.346s
+Error: Invalid request data
+2025-04-15 22:01:53,023 [WARNING] django.request: POST /api/orders/ 201 0.293s
+2025-04-15 22:01:53,023 [ERROR] django.request: DELETE /api/users/ 404 0.208s
+Error: Invalid request data
+2025-04-15 22:01:53,023 [INFO] django.request: GET /api/products/ 200 0.435s
+2025-04-15 22:01:53,023 [DEBUG] django.request: GET /api/orders/ 200 0.217s
+2025-04-15 22:01:53,023 [INFO] django.request: PUT /api/auth/login/ 200 0.288s
+2025-04-15 22:01:53,023 [ERROR] django.request: POST /api/products/ 404 0.203s
+Error: Permission denied
+2025-04-15 22:01:53,023 [DEBUG] django.request: GET /api/users/ 200 0.243s
+2025-04-15 22:01:53,023 [ERROR] django.request: GET /api/orders/ 400 0.360s
+Error: Invalid request data
+2025-04-15 22:01:53,023 [DEBUG] django.request: DELETE /api/auth/login/ 200 0.065s
+2025-04-15 22:01:53,023 [INFO] django.request: PATCH /api/orders/ 200 0.052s
+2025-04-15 22:01:53,023 [ERROR] django.request: GET /api/payments/ 401 0.047s
+Error: Permission denied
+2025-04-15 22:01:53,023 [INFO] django.request: GET /api/orders/ 200 0.499s
+2025-04-15 22:01:53,023 [WARNING] django.request: GET /api/payments/ 201 0.222s
+2025-04-15 22:01:53,023 [INFO] django.request: PUT /api/users/ 200 0.462s
+2025-04-15 22:01:53,023 [ERROR] django.request: GET /api/products/ 400 0.352s
+Error: Database connection failed
+2025-04-15 22:01:53,023 [ERROR] django.request: GET /api/users/ 401 0.285s
+Error: Invalid request data
+2025-04-15 22:01:53,023 [ERROR] django.request: POST /api/orders/ 401 0.198s
+Error: Database connection failed
+2025-04-15 22:01:53,023 [DEBUG] django.request: PATCH /api/orders/ 200 0.332s
+2025-04-15 22:01:53,023 [ERROR] django.request: PATCH /api/auth/login/ 403 0.041s
+Error: Database connection failed
+2025-04-15 22:01:53,023 [ERROR] django.request: DELETE /api/users/ 400 0.240s
+Error: Permission denied
+2025-04-15 22:01:53,023 [INFO] django.request: PUT /api/auth/login/ 200 0.091s
+2025-04-15 22:01:53,023 [DEBUG] django.request: PATCH /api/payments/ 200 0.185s
+2025-04-15 22:01:53,023 [INFO] django.request: PATCH /api/orders/ 200 0.467s
+2025-04-15 22:01:53,023 [INFO] django.request: GET /api/orders/ 200 0.114s
+2025-04-15 22:01:53,023 [DEBUG] django.request: PUT /api/auth/login/ 200 0.490s
+2025-04-15 22:01:53,023 [DEBUG] django.request: POST /api/payments/ 200 0.398s
+2025-04-15 22:01:53,023 [INFO] django.request: POST /api/orders/ 200 0.053s
+2025-04-15 22:01:53,023 [DEBUG] django.request: GET /api/orders/ 200 0.485s
+2025-04-15 22:01:53,023 [ERROR] django.request: DELETE /api/auth/login/ 401 0.407s
+Error: Internal server error
+2025-04-15 22:01:53,023 [CRITICAL] django.request: PUT /api/payments/ 500 0.184s
+Error: Permission denied
+2025-04-15 22:01:53,023 [DEBUG] django.request: POST /api/payments/ 200 0.322s
+2025-04-15 22:01:53,023 [CRITICAL] django.request: PATCH /api/payments/ 500 0.185s
+Error: Internal server error
+2025-04-15 22:01:53,023 [ERROR] django.request: GET /api/orders/ 404 0.195s
+Error: Permission denied
+2025-04-15 22:01:53,023 [INFO] django.request: PUT /api/orders/ 200 0.404s
+2025-04-15 22:01:53,023 [DEBUG] django.request: PUT /api/products/ 200 0.205s
+2025-04-15 22:01:53,023 [DEBUG] django.request: DELETE /api/auth/login/ 200 0.434s
+2025-04-15 22:01:53,023 [ERROR] django.request: PATCH /api/auth/login/ 400 0.045s
+Error: Invalid request data
